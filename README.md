@@ -1,6 +1,7 @@
 ## Hi, I'm yonner 👋😎👩‍💻
 
-![Imagen de WhatsApp 2024-05-06 a las 17 29 23_d8fc6ac6](https://github.com/YONNER44/sena/assets/118782598/990d76a4-44f4-4291-9d79-87e4ce78d8d3)
+![descarga](https://github.com/YONNER44/sena/assets/118782598/ad2b9163-a79a-4a4e-97cf-1de2dc59c30e)
+
 
 '''js
 const midudev = {
