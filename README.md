@@ -7,7 +7,7 @@ const midudev = {
 pronouns: "he" | "him",
 code fronthend: [javascript, html, css],
 code backend: [php, .net],
-tols: [react, larabel, styled-components,],
+tols: [react, larabel, styled-components],
 Database: [MYSQL, sqlserver, oracle],
 }
 '''
@@ -15,7 +15,7 @@ Database: [MYSQL, sqlserver, oracle],
 You can find me 🌍
 - [nstagram][https://www.instagram.com/yonner.v/]
 - Discord
-- YouTube
+- [YouTube][https://www.youtube.com/@golians]
 
 <!--
 **YONNER44/YONNER44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
