@@ -10,7 +10,7 @@ passions: ['web developrent']
 '''
 
 You can find me 🌍
-- Instagram
+- [nstagram][https://www.instagram.com/yonner.v/]
 - Discord
 - YouTube
 
