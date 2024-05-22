@@ -1,7 +1,6 @@
 ## Hi, I'm yonner 👋😎👩‍💻
 
-![descarga](https://github.com/YONNER44/sena/assets/118782598/ad2b9163-a79a-4a4e-97cf-1de2dc59c30e)
-
+![descarga](https://github.com/YONNER44/sena/assets/118782598/fb31f2ee-fb7b-462d-87a6-c9450211260e)
 
 '''js
 const midudev = {
