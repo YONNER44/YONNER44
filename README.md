@@ -1,5 +1,8 @@
 ## Hi, I'm yonner 👋😎👩‍💻
 
+![Imagen de WhatsApp 2024-05-06 a las 17 29 23_d8fc6ac6](https://github.com/YONNER44/sena/assets/118782598/990d76a4-44f4-4291-9d79-87e4ce78d8d3)
+
+
 <!--
 **YONNER44/YONNER44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
