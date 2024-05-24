@@ -20,6 +20,7 @@ You can find me 🌍
 
 <p align="center">
 <a href="https://www.linkedin.com/in/yonner-vargas-48b618246/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/yonner-vargas-48b618246-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:yonnervargasbernate7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yonnervargasbernate7@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
