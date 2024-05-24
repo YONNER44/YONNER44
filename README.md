@@ -18,6 +18,11 @@ You can find me 🌍
 
 ![YONNER44's GitHub stats](https://github-readme-stats.vercel.app/api?username=YONNER44&show_icons=true&theme=dracula)
 
+<p align="center">
+<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/yonner-vargas-48b618246-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yonnervargasbernate7@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
 
 <!--
 **YONNER44/YONNER44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
