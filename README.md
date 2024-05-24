@@ -1,12 +1,14 @@
-## Hi, I'm yonner 👋😎👩‍💻
+### Hi, I'm yonner 👋😎👩‍💻
 
 ![descarga](https://github.com/YONNER44/sena/assets/118782598/fb31f2ee-fb7b-462d-87a6-c9450211260e)
 
+'''js
 const midudev = {
   pronouns: "he" | "him",
   code: [javascript, html, css, php],
   tools: [react, larabel, styled-components],
 }
+'''
 
 You can find me 🌍
 - [instagram][https://www.instagram.com/yonner.v/]
