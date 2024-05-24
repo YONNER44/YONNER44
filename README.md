@@ -2,13 +2,22 @@
 
 ![descarga](https://github.com/YONNER44/sena/assets/118782598/fb31f2ee-fb7b-462d-87a6-c9450211260e)
 
-'''js
-const nidudev = {
-  pronouns: "he" | "hin",
-  code: [javascript, html, css, php],
-  tools: [react, larabel, styled-components],
-}
-'''
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS, Python, CSharp],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: [ "Bootstrap"]
+      },
+      backEnd: {
+         csharp: [".net Core"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
 
 You can find me 🌍
 - [instagram][https://www.instagram.com/yonner.v/]
