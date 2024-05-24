@@ -11,7 +11,7 @@ tols: [react, larabel, styled-components],
 '''
 
 You can find me 🌍
-- [nstagram][https://www.instagram.com/yonner.v/]
+- [instagram][https://www.instagram.com/yonner.v/]
 - Discord
 - [YouTube][https://www.youtube.com/@golians]
 
