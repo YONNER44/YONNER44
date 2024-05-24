@@ -15,8 +15,7 @@ You can find me 🌍
 - Discord
 - [YouTube][https://www.youtube.com/@golians]
 
-  [![YONNER44's GitHub stats](https://github-readme-stats.vercel.app/api?username=YONNER44)](https://github.com/anuraghazra_icons=true&theme=dracula)
-
+![YONNER44's GitHub stats](https://github-readme-stats.vercel.app/api?username=YONNER44&show_icons=true&theme=dracula)
 <!--
 **YONNER44/YONNER44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
