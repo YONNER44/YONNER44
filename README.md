@@ -17,7 +17,7 @@ You can find me 🌍
 
 ![YONNER44's GitHub stats](https://github-readme-stats.vercel.app/api?username=YONNER44&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YONNER44&layout=compact)
+[![YONNER44's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YONNER44)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **YONNER44/YONNER44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
