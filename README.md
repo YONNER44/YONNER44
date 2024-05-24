@@ -5,10 +5,8 @@
 '''js
 const midudev = {
 pronouns: "he" | "him",
-code fronthend: [javascript, html, css],
-code backend: [php, .net],
+code: [javascript, html, css, php],
 tols: [react, larabel, styled-components],
-Database: [MYSQL, sqlserver, oracle],
 }
 '''
 
