@@ -13,7 +13,7 @@
 
 You can find me 🌍
 - [instagram][https://www.instagram.com/yonner.v/]
-- Discord
+- [Discord][https://discord.gg/4bmsCmgy]
 - [YouTube][https://www.youtube.com/@golians]
 
 ![YONNER44's GitHub stats](https://github-readme-stats.vercel.app/api?username=YONNER44&show_icons=true&theme=dracula)
