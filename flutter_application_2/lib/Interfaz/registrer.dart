@@ -101,7 +101,7 @@ class __FormContentState extends State<_FormContent> {
 
   Future<void> _register() async {
     final String url =
-        'http://192.168.1.15/api/V1/registro'; // Reemplaza con la URL de tu API
+        'http://192.168.1.5/api/V1/registro'; // Reemplaza con la URL de tu API
     final Map<String, dynamic> requestBody = {
       'id': _cedulaController.text,
       'name': _nombreController.text,

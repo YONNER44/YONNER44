@@ -24,33 +24,70 @@ class _LoginPageState extends State<LoginPage> {
       final email = _emailController.text;
       final password = _passwordController.text;
 
-      final url = Uri.parse(
-          'http://192.168.1.15/api/V1/loginmovil'); // Cambia a tu URL de API
+      final url = Uri.parse('http://192.168.1.5/api/V1/loginmovil'); // Cambia a tu URL de API
+      final requestBody = {'email': email, 'password': password};
+
+     try {
       final response = await http.post(
         url,
         headers: {'Content-Type': 'application/json'},
-        body: jsonEncode({'email': email, 'password': password}),
+        body: jsonEncode(requestBody),
       );
 
-      if (response.statusCode == 200) {
+      final responseJson = jsonDecode(response.body);
 
-        // Actualiza el estado del usuario en el UserProvider
-        Provider.of<UserProvider>(context, listen: false).setUser(email, true);
-        // Redirige al widget principal
-        Navigator.of(context).pushAndRemoveUntil(
-          MaterialPageRoute(builder: (context) => const MyApp()),
-          (Route<dynamic> route) => false, // Elimina todas las rutas anteriores
-        );
+      print('Response status: ${response.statusCode}');
+      print('Response body: ${response.body}');
+
+      if (response.statusCode == 200) {
+        // Comprueba si hay un objeto 'user' y 'token' en la respuesta
+        if (responseJson.containsKey('user') && responseJson.containsKey('token')) {
+          // Guarda el email y el estado de autenticación en el Provider
+          Provider.of<UserProvider>(context, listen: false).setUser(email, true);
+
+          // Muestra el mensaje de la API, si está presente
+          if (responseJson.containsKey('message')) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text(responseJson['message']),
+                backgroundColor: Colors.green,
+              ),
+            );
+          }
+
+          Future.delayed(const Duration(seconds: 5), () {
+            Navigator.of(context).pushAndRemoveUntil(
+              MaterialPageRoute(builder: (context) => const MyApp()),
+              (Route<dynamic> route) => false,
+            );
+          });
+        } else {
+          // Muestra una respuesta inesperada si no se encuentra el objeto 'user' o 'token'
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Respuesta inesperada de la API: ${response.body}'),
+              backgroundColor: Colors.red,
+            ),
+          );
+        }
       } else {
-        // Muestra un mensaje de error si la solicitud falló
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-              content: Text(
-                  'Error de inicio de sesión. Por favor, inténtelo de nuevo.')),
+            content: Text('Error en la solicitud: ${response.statusCode}'),
+            backgroundColor: Colors.red,
+          ),
         );
       }
+    } catch (error) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Error de red: $error'),
+          backgroundColor: Colors.red,
+        ),
+      );
     }
   }
+}
 
   @override
   Widget build(BuildContext context) {

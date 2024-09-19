@@ -34,7 +34,7 @@ class Producto {
 
 Future<List<Producto>> fetchProductos() async {
   final response =
-      await http.get(Uri.parse('http://192.168.1.15/api/V1/productos'));
+      await http.get(Uri.parse('http://192.168.1.5/api/V1/productos'));
 
   if (response.statusCode == 200) {
     final jsonResponse = json.decode(response.body);
