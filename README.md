@@ -1,9 +1,13 @@
 ### Hi, I'm yonner 👋😎👩‍💻
-![descarga](https://github.com/YONNER44/sena/assets/118782598/fb31f2ee-fb7b-462d-87a6-c9450211260e)
+💻 **Soy desarrollador frontend** apasionado por crear interfaces modernas, funcionales y bien estructuradas. 
 
 ### Programming Languages 🌐
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="24">](https://www.typescriptlang.org/) |
+|---|---|---|---|
+
+### Frameworks & Libraries ⚡
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="24">](https://react.dev/) | [<img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="Next.js" width="24">](https://nextjs.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind CSS" width="24">](https://tailwindcss.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |
 |---|---|---|---|
 
 ### Tools 🛠️
