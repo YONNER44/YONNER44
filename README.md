@@ -17,7 +17,7 @@
 
 ### You can find me 🌍  
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/yonner.v/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
