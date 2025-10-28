@@ -29,6 +29,8 @@
   </a>
 </p>
 
+![Repos públicos](https://img.shields.io/badge/Repositorios-{{repos}}-blue?style=flat&logo=github)
+
 ![YONNER44's GitHub stats](https://github-readme-stats.vercel.app/api?username=YONNER44&show_icons=true&theme=dracula)
 
 <p align="center">
