@@ -29,7 +29,7 @@
   </a>
 </p>
 
-![Repos públicos](https://img.shields.io/github/repos/YONNER44?color=blue&label=Repositorios&logo=github)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YONNER44&repo=sena&theme=dracula)](https://github.com/YONNER44/sena)
 
 ![YONNER44's GitHub stats](https://github-readme-stats.vercel.app/api?username=YONNER44&show_icons=true&theme=dracula)
 
