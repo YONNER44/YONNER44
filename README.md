@@ -15,10 +15,19 @@
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | Yonner Cache | many more...
 |---|---|---|---|---|
 
-You can find me 🌍
-- [instagram][https://www.instagram.com/yonner.v/]
-- [Discord][https://discord.gg/CbvTZCXF]
-- [YouTube][https://www.youtube.com/@golians]
+### You can find me 🌍  
+
+<p align="center">
+  <a href="https://www.instagram.com/yonner.v/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discord.gg/CbvTZCXF" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.youtube.com/@golians" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
 
 ![YONNER44's GitHub stats](https://github-readme-stats.vercel.app/api?username=YONNER44&show_icons=true&theme=dracula)
 
